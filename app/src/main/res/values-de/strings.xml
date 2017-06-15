@@ -8,7 +8,7 @@
     <string name="navigation_drawer_close">Navigationsmenü schließen</string>
 
     <string name="modules">Module</string>
-    <string name="downloads">Download</string>
+    <string name="downloads">Downloads</string>
     <string name="superuser">Superuser</string>
     <string name="log">Log</string>
     <string name="settings">Einstellungen</string>
@@ -19,21 +19,21 @@
     <string name="magisk_version">Magisk %1$s ist installiert</string>
     <string name="magisk_version_error">Magisk ist nicht installiert</string>
 
-    <string name="checking_for_updates">Suche nach Updates…</string>
+    <string name="checking_for_updates">Suche nach Updates</string>
     <string name="magisk_update_available">Magisk %1$s ist verfügbar!</string>
     <string name="cannot_check_updates">Updatesuche fehlgeschlagen.\nIst eine Internetverbindung verfügbar?</string>
     <string name="up_to_date">Die neueste Version von %1$s ist bereits installiert</string>
-    <string name="root_error">Gerootet, aber keine root-Rechte. Wurde der root-Zugriff verweigert?</string>
+    <string name="root_error">Gerootet, aber keine Root-Rechte. Wurde der Root-Zugriff verweigert?</string>
     <string name="not_rooted">Nicht gerootet</string>
     <string name="proper_root">Ordnungsgemäß gerootet</string>
     <string name="safetyNet_check_text">SafetyNet-Status abfragen</string>
     <string name="checking_safetyNet_status">Prüfe SafetyNet-Status…</string>
     <string name="safetyNet_connection_failed">Verbindung zur Google-API fehlgeschlagen</string>
-    <string name="safetyNet_connection_suspended">Verbindung zur Google-API wurde ausgesetzt</string>	
+    <string name="safetyNet_connection_suspended">Verbindung zur Google-API wurde unterbrochen</string>	
     <string name="safetyNet_no_response">SafetyNet-Status konnte nicht geprüft werden. Ist eine Internetverbindung verfügbar?</string>
     <string name="safetyNet_fail">SafetyNet nicht bestanden: \"CTS profile mismatch\"</string>
     <string name="safetyNet_pass">SafetyNet bestanden</string>
-    <string name="root_info_warning">Funktionalität stark eingeschränkt</string>
+    <string name="root_info_warning">Funktionalität stark eingeschränkt; nicht gerootet!</string>
 
     <!--Install Fragment-->
     <string name="auto_detect">%1$s (autom.)</string>
@@ -99,15 +99,15 @@
     <string name="download">Herunterladen</string>
     <string name="goto_install">Zu \"Installieren\" wechseln</string>
     <string name="download_file_error">Fehler beim Herunterladen der Datei</string>
-    <string name="install_error">Fehler bei der Installation!</string>
-    <string name="invalid_zip">Die Zip-Datei ist kein Magisk-Modul!</string>
-    <string name="reboot_title">Installation erfolgreich!</string>
-    <string name="reboot_msg">Möchtest du jetzt neustarten?</string>
+    <string name="install_error">Fehler bei der Installation</string>
+    <string name="invalid_zip">Die Zip-Datei ist kein Magisk-Modul</string>
+    <string name="reboot_title">Installation erfolgreich</string>
+    <string name="reboot_msg">Jetzt neustarten?</string>
     <string name="reboot">Neustart</string>
-    <string name="copying_msg">Kopiere Zip ins temp-Verzeichnis</string>
+    <string name="copying_msg">Kopiere zip ins temp-Verzeichnis</string>
     <string name="zip_install_progress_title">Installiere</string>
-    <string name="zip_unzip_msg">Entpacke Zip-Datei…</string>
-    <string name="zip_process_msg">Verarbeite Zip-Datei…</string>
+    <string name="zip_unzip_msg">Entpacke zip-Datei…</string>
+    <string name="zip_process_msg">Verarbeite zip-Datei…</string>
     <string name="zip_install_progress_msg">Installiere %1$s…</string>
     <string name="no_magisk_title">Magisk ist nicht installiert!</string>
     <string name="no_magisk_msg">Möchtest du Magisk herunterladen und installieren?</string>
@@ -120,7 +120,7 @@
     <string name="start_magiskhide">Starte Magisk Hide…</string>
     <string name="no_magisksu_title">Du benutzt nicht MagiskSU!</string>
     <string name="no_magisksu_msg">Deine root-Lösung wird nicht offiziell unterstützt und Magisk Hide allein ist eventuell nicht ausreichend!\nEventuell benötigst du weitere Programme (z.B. \"suhide\"), um SafetyNet zu bestehen.</string>
-    <string name="understand">Ich verstehe</string>
+    <string name="understand">Verstanden</string>
     <string name="process_error">Prozessfehler</string>
     <string name="internal_storage">Die zip-Datei ist gespeichert unter:\n[Interner Speicher]%1$s</string>
     <string name="zip_process_title">Verarbeite</string>
